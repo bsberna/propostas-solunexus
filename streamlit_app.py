@@ -1,1 +1,1 @@
-# App principal (finalizado) - insira o código final aqui
+# streamlit app finalizado (adicione o conteúdo completo aqui)
